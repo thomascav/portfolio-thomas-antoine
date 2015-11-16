@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    margin: 1em;
+}
+nav {
+    text-align: center;
+}
+.littlepics{
+    width: 90px;
+    height: 120px;
+    }
+#biosmall {
+    color: #CCBE98;
+}
+h4 {
+    color: #CCBE98;
+}
+.biographie {
+    margin: 1.5em;
+}
+.lettrine {
+    font-size: 2em;
+    font-weight: bold;
+}
+#biographie {
+    color: white;
+}
