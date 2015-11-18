@@ -28,3 +28,17 @@ h4 {
 #biographie {
     color: white;
 }
+#biotxt {
+    color: white;
+}
+.up {
+    float: right;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    padding-bottom: 1em;
+}
+.up:hover {
+    box-shadow: 0.06em 0.06em 0.50em #BDBDBD;
+}
