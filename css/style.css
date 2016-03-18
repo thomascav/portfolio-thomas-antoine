@@ -1,0 +1,105 @@
+/*
+======================================================================================================================================================
+                            Général
+*/
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    margin: 1em;
+}
+nav {
+    text-align: center;
+}
+.button{
+    padding:8px;
+    padding-left: 47px;
+    padding-right: 47px;
+}
+/*
+======================================================================================================================================================
+                            Page d'accueil
+*/
+.littlepics
+{
+    width: 90px;
+    height: 120px;
+    }
+#biosmall {
+    color: white;
+}
+h4 {
+    color: #CCBE98;
+}
+/*
+======================================================================================================================================================
+                        Page biographie
+*/
+.biographie {
+    margin: 1.5em;
+}
+.lettrine {
+    font-size: 2em;
+    font-weight: bold;
+}
+#biographie {
+    color: white;
+}
+.biotxt {
+    color: white;
+    text-align: justify;
+}
+.up {
+    float: right;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    padding-bottom: 1em;
+}
+.up:hover {
+    box-shadow: 0.06em 0.06em 0.50em #BDBDBD;
+}
+.imgbio {
+    float: right;
+    margin: 1em;
+}
+.biolink {
+    color: white;
+    padding: 1em;
+}
+/*
+======================================================================================================================================================
+                    Page bibliographie
+*/
+.presentation {
+    color: white;
+    padding: 3em;
+}
+tbody {
+    background-color: black;
+    border: none;
+}
+.row {
+    background-color: black;
+}
+table {
+    border: none;
+}
+table, td {
+    font-size: 1.5em;
+    background-color: #EEF6FF;
+    box-shadow: 0.06em 0.06em 0.1em #555;
+}
+
+table tr th, table tr td {
+    text-align: center;
+    margin: 3em;
+}
+#tabright {
+    padding-left: 8em;
+}
+/*======================================================================================================================================================
+                    Page illustrations
+*/
